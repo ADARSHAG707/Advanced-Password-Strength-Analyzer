@@ -10,7 +10,7 @@ from hashlib import sha1
 class PasswordAnalyzerApp(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("CipherSense – Advanced Password Strength Analyzer")
+        self.title("CipherSense–Advanced Password Strength Analyzer")
         self.geometry("800x600")
         self.configure(bg="#0f172a")
         self.style = ttk.Style()
