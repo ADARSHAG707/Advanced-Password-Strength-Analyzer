@@ -7,7 +7,7 @@ It’s a cybersecurity-focused desktop app that helps users understand how stron
 
 ---
 
-## 🚀 Features
+🚀 Features
 
 ✅ Real-time password strength analysis  
 ✅ Entropy-based scoring system  
