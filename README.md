@@ -20,7 +20,7 @@ It’s a cybersecurity-focused desktop app that helps users understand how stron
 
 ---
 
-## 🧠 How It Works
+ 🧠 How It Works
 
 CipherSense evaluates passwords using:
 - **Entropy formula** (bit-based randomness calculation)  
