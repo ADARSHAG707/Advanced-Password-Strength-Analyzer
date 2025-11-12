@@ -31,7 +31,7 @@ CipherSense evaluates passwords using:
 
 ---
 
-## 🖼️ GUI Preview
+🖼️ GUI Preview
 
 💡 _Add your screenshots here:_
 
